@@ -5,7 +5,7 @@ spoon.ReloadConfiguration:start()
 
 spoon.SpoonInstall:andUse("AppLauncher", {
     hotkeys = {
-        b = "Firefox",
+        b = "Google Chrome",
         c = "Calendar",
         d = "DingTalk" ,
         f = "Finder" ,
