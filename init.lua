@@ -9,11 +9,14 @@ spoon.SpoonInstall:andUse("AppLauncher", {
         c = "Calendar",
         d = "DingTalk" ,
         f = "Finder" ,
-        t = "iTerm",
-        v = "Visual Studio Code",
-        w = "wechat",
+        m = "Music",
         n = "Notion",
         o = "Obsidian",
+        r = "Reminders",
+        -- t = "iTerm",
+        t = "wezterm",
+        v = "Visual Studio Code",
+        w = "wechat",
     }
 })
 
